@@ -3,7 +3,6 @@
 ---------------------------------------------
 The_k_number_problem
 from : https://programmers.co.kr/learn/courses/30/lessons/42748
-solved by using stack.
 ---------------------------------------------
 */
 
