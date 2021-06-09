@@ -1,6 +1,6 @@
 /*
 ---------------------------------------------
-The_claw_machine_game_problem
+The_lotto_problem
 from : https://programmers.co.kr/learn/courses/30/lessons/77484
 ---------------------------------------------
 */
