@@ -3,7 +3,7 @@
 ---------------------------------------------
 The_gym_clothes_problem
 from : https://programmers.co.kr/learn/courses/30/lessons/42862
-solved by using stack.
+solved by using greedy.
 ---------------------------------------------
 */
 
