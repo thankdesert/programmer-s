@@ -2,7 +2,6 @@
 ---------------------------------------------
 The_Trial_Examination
 https://programmers.co.kr/learn/courses/30/lessons/42840
-
 ---------------------------------------------
 */
 
