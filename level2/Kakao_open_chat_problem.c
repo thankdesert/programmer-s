@@ -1,7 +1,7 @@
 /*
 ---------------------------------------------
 Kakao_open_chat_problem
-from : https://programmers.co.kr/learn/courses/30/lessons/60057
+from : https://programmers.co.kr/learn/courses/30/lessons/42888
 solved by using map(unordered_map)
 ---------------------------------------------
 */
