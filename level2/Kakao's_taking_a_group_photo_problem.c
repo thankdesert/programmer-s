@@ -1,6 +1,6 @@
 /*
 ---------------------------------------------
-Taking_a_group_photo_problem
+Kakao's_taking_a_group_photo_problem
 from : https://programmers.co.kr/learn/courses/30/lessons/1835
 solved by using permutation.
 ---------------------------------------------
