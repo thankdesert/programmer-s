@@ -1,7 +1,7 @@
   
 /*
 ---------------------------------------------
-Counting_a_prime_number_problem.c
+Counting_all_prime_number_problem.c
 from : https://programmers.co.kr/learn/courses/30/lessons/42839
 solved by using permutation and combination.
 ---------------------------------------------
