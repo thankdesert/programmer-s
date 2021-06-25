@@ -1,6 +1,6 @@
 /*
 ---------------------------------------------
-Searching_a_ranking_problem
+Kakao's_searching_a_ranking_problem
 from : https://programmers.co.kr/learn/courses/30/lessons/72412
 solved by using unordered_map & vector.
 ---------------------------------------------
