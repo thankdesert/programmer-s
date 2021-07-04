@@ -1,6 +1,6 @@
 /*
 ---------------------------------------------
-aliquot's_addition_and_subtraction
+Aliquot's_addition_and_subtraction
 from : https://programmers.co.kr/learn/courses/30/lessons/77884
 ---------------------------------------------
 */
