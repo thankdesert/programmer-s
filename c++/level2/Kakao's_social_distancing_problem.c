@@ -16,16 +16,14 @@ vector<int> solution(vector<vector<string>> places) {
     
     for(i = 0; i< places.size(); i++) {
         flag = 1;
-        for(j = 0; j < 5; j++) { //행
-            for(k = 0; k < 5; k++) { //열
+        for(j = 0; j < 5 && flag == 1; j++) { //행
+            for(k = 0; k < 5 && flag == 1; k++) { //열
                 if(places[i][j][k] == 'P') {
                     for(int u = 1; u <= 2 && u + k < 5 && flag == 1; u++) { //right
                         if(places[i][j][k + u] == 'X')
                             break;
                         if(places[i][j][k + u] == 'P') {
                             answer.push_back(0);
-                            j = 6;
-                            k = 6;
                             flag = 0;
                             break;
                         }
@@ -35,8 +33,6 @@ vector<int> solution(vector<vector<string>> places) {
                             break;
                         if(places[i][j + u][k] == 'P') {
                             answer.push_back(0);
-                            j = 6;
-                            k = 6;
                             flag = 0;
                             break;
                         }
@@ -45,8 +41,6 @@ vector<int> solution(vector<vector<string>> places) {
                         if(places[i][j][k + 1] != 'X' || places[i][j + 1][k] != 'X') {
                             if(places[i][j+1][k+1] == 'P') {
                                 answer.push_back(0);
-                                j = 6;
-                                k = 6;
                                 flag = 0;
                                 break;
                             }
@@ -56,8 +50,6 @@ vector<int> solution(vector<vector<string>> places) {
                         if(places[i][j][k - 1] != 'X' || places[i][j + 1][k] != 'X') {
                             if(places[i][j+1][k - 1] == 'P') {
                                 answer.push_back(0);
-                                j = 6;
-                                k = 6;
                                 flag = 0;
                                 break;
                             }
