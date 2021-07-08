@@ -14,7 +14,7 @@ using namespace std;
 vector<long long> solution(vector<long long> numbers) {
     vector<long long> answer;
     int i, k;
-    int j;
+    long long j;
     for(i = 0; i<numbers.size(); i++) {
         for(k = 0; pow(2, k) <= numbers[i]; k++);
         k--;
