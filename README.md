@@ -1,9 +1,9 @@
-#SH's Sources#
+#SH's Sources
 >[프로그래머스]()에서 제공하는 코딩 테스트 문제들을 해결해나가는 공간입니다.  
 >주 사용 언어 : __C/C++__, Java  
 
-## C / C++  
-### Level1  
+## C / C++
+### Level1
 * __naive__
 	+ [예산](https://programmers.co.kr/learn/courses/30/lessons/12982) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/A_budget_problem.c)
 	+ [약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/Aliquot's_addition_and_subtraction.c)
@@ -32,7 +32,7 @@
 	+ [Kakao 숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/Kakao's_string_of_number_problem.c)
 
 
-### Level2
+###Level2
 * __naive__
 	+ [2개 이하로 다른 비트](https://programmers.co.kr/learn/courses/30/lessons/77885) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level2/A_bit_problem(No%20more%20than%20two%20different%20bits).c)
 	+ [Kakao 카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level2/A_carpet_problem.c)
@@ -81,8 +81,8 @@
 * __unordered map__
 	+ [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level2/A_skill_tree_problem.c)
 	+ [영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level2/A_word_chain_problem.c)
-	+ [문제이름](https://programmers.co.kr/learn/courses/30/lessons/17684#) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level2/Kakao's_compression_problem.c)
-	+ [Kakao 압축](https://programmers.co.kr/learn/courses/30/lessons/72412) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level2/Kakao's_searching_a_ranking_problem.c)
+	+ [Kakao 압축](https://programmers.co.kr/learn/courses/30/lessons/17684#) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level2/Kakao's_compression_problem.c)
+	+ [Kakao 순위검색](https://programmers.co.kr/learn/courses/30/lessons/72412) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level2/Kakao's_searching_a_ranking_problem.c)
 	+ [Kakao 오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level2/Kakao_open_chat_problem.c)
 
 ## Java
