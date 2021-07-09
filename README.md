@@ -2,8 +2,8 @@
 >[프로그래머스]()에서 제공하는 코딩 테스트 문제들을 해결해나가는 공간입니다.  
 >주 사용 언어 : __C/C++__, Java  
 
-##C / C++
-###Level1
+##C / C++  
+###Level1  
 * __naive__
 	+ [예산](https://programmers.co.kr/learn/courses/30/lessons/12982) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/A_budget_problem.c)
 	+ [약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/Aliquot's_addition_and_subtraction.c)
