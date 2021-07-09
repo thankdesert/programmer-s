@@ -32,7 +32,7 @@
 	+ [Kakao 숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/Kakao's_string_of_number_problem.c)
 
 
-###Level2
+### Level2
 * __naive__
 	+ [2개 이하로 다른 비트](https://programmers.co.kr/learn/courses/30/lessons/77885) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level2/A_bit_problem(No%20more%20than%20two%20different%20bits).c)
 	+ [Kakao 카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level2/A_carpet_problem.c)
