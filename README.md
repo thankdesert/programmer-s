@@ -91,3 +91,8 @@
 * __naive__
 	+ [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748) > [코드](https://github.com/thankdesert/programmer-s/blob/main/Java/level1/The_k_number_problem.java)
 	+ [예산](https://programmers.co.kr/learn/courses/30/lessons/12982) > [Source](https://github.com/thankdesert/programmer-s/blob/main/Java/level1/A_budget_problem.java)
+
+
+### Level2
+* __complete binary tree__
+	+ [예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985?language=java) > [Source](https://github.com/thankdesert/programmer-s/blob/main/Java/level2/A_tournament_table_problem.java)
