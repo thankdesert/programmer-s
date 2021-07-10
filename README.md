@@ -86,10 +86,16 @@
 	+ [Kakao 순위검색](https://programmers.co.kr/learn/courses/30/lessons/72412) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level2/Kakao's_searching_a_ranking_problem.c)
 	+ [Kakao 오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level2/Kakao_open_chat_problem.c)
 
+
+### Level3
+* __binary search__
+	+ [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/The_immigration_problem.c)
+
+
 ## Java
 ### Level1
 * __naive__
-	+ [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748) > [코드](https://github.com/thankdesert/programmer-s/blob/main/Java/level1/The_k_number_problem.java)
+	+ [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748) > [Source](https://github.com/thankdesert/programmer-s/blob/main/Java/level1/The_k_number_problem.java)
 	+ [예산](https://programmers.co.kr/learn/courses/30/lessons/12982) > [Source](https://github.com/thankdesert/programmer-s/blob/main/Java/level1/A_budget_problem.java)
 
 
