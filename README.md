@@ -15,13 +15,14 @@
 	+ [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/The_keypad_problem.c)
 	+ [로또의 최고 순위와 최저 순](https://programmers.co.kr/learn/courses/30/lessons/77484) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/The_lotto_problem.c)
 	+ [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/The_prime_number_problem.c)
-	+ [Kakao 신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/The_recommendation_problem.c)
 	+ [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/The_trial_examination.c)
 	+ [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/Reversing_the_ternary_scale_problem.c)
-	+ [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/Sorting_a_string_problem.c)
-	+ [문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/String_sort_problem.c)
 	+ [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/The_Pohnk%C3%A9mon_problem.c)
 	+ [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/The_absolutes_problem.c)
+* __String__
+	+ [Kakao 신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/The_recommendation_problem.c)
+	+ [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/Sorting_a_string_problem.c)
+	+ [문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/String_sort_problem.c)
 * __set__
 	+ [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/Pick_two_and_sum_problem.c)
 * __greedy__
