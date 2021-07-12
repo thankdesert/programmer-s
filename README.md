@@ -45,12 +45,13 @@
 	+ [Kakao 거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level2/Kakao's_social_distancing_problem.c)
 	+ [Kakao 튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level2/Kakao's_tuple_problem.c)
 	+ [Kakao 프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level2/Kakao_friend's_four_blocks.c)
-	+ [Kakao 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level2/Kakao_news_clustering_problem.c)
 	+ [이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level2/Repeating_the_binary_transformation_problem.c)
 	+ [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level2/The_124_country's_number.c)
 	+ [쿼드압축 후 개수 세기](https://programmers.co.kr/learn/courses/30/lessons/68936) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level2/The_quad_compression_problem.c)
 	+ [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level2/Writing_a_JadenCase_string_problem.c)
 	+ [Kakao 방금 그 곡](https://programmers.co.kr/learn/courses/30/lessons/17683) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c++/level2/Kakao's_the_song_I_heard_just_now.c)
+* __String__
+	+ [Kakao 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level2/Kakao_news_clustering_problem.c)
 * __queue__
 	+ [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level2/A_truck_passing_through_a_bridge_problem.c)
 * __minimum heap__
