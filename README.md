@@ -100,6 +100,8 @@
 	+ [Kakao 보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/Kakao's_shopping_gems_problem.c)
 * __kruskal's algorithm__
 	+ [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/Linking_all_islands_problem.c)
+* __greedy algorithm__
+	+ [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/The_unmanned_camera_problem.c)
 
 
 ## Java
