@@ -98,6 +98,8 @@
 	+ [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/The_Network_problem.c)
 * __two pointer technique__
 	+ [Kakao 보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/Kakao's_shopping_gems_problem.c)
+* __kruskal's algorithm__
+	+ [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/Linking_all_islands_problem.c)
 
 
 ## Java
