@@ -29,6 +29,8 @@
 	+ [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/Writing_a_strange_string_problem.c)
 * __set__
 	+ [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/Pick_two_and_sum_problem.c)
+* __Sieve of Eratosthenes__
+	+ [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/Finding_all_prime_number.c)
 * __greedy__
 	+ [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/The_gym_clothes_problem.c)
 * __stack__
