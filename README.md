@@ -115,6 +115,8 @@
 * __unordered map__
 	+ [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/The_best_album_problem.c)
 	+ [Kakao 리틀 프렌즈 사천성](https://programmers.co.kr/learn/courses/30/lessons/1836) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/Kakao's_Mah-Jongg_problem.c)
+* __dynamic programming__
+	+ [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/Expressing_only_with_N_problem.c)
 
 
 ## Java
