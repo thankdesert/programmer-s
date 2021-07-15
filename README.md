@@ -24,6 +24,7 @@
 	+ [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/Sorting_a_string_problem.c)
 	+ [문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/String_sort_problem.c)
 	+ [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/Su-Bak_problem.c)
+	+ [문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925?language=cpp) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/Converting_string_to_integer.c)
 * __set__
 	+ [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/Pick_two_and_sum_problem.c)
 * __greedy__
