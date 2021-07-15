@@ -20,6 +20,7 @@
 	+ [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/The_Pohnk%C3%A9mon_problem.c)
 	+ [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/The_absolutes_problem.c)
 	+ [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/Removing_all_duplicate_numbers_problem.c)
+	+ [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/The_Collatz_conjecture_problem.c)
 * __String__
 	+ [Kakao 신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/The_recommendation_problem.c)
 	+ [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/Sorting_a_string_problem.c)
