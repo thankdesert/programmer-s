@@ -1,7 +1,7 @@
 /*
 ---------------------------------------------
 simple(12918)
-from : https://programmers.co.kr/learn/courses/30/lessons/12910
+from : https://programmers.co.kr/learn/courses/30/lessons/12918
 ---------------------------------------------
 */
 
