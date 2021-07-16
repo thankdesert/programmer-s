@@ -24,6 +24,18 @@
 	+ [나누어 떨어지는 배열](https://programmers.co.kr/learn/courses/30/lessons/12910) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/simple(12910).c)
 	+ [자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/Reversing_a_natural_numbers_and_creating_an_array.c)
 	+ [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/simple(12912).c)
+	+ [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/simple(12928).c)
+	+ [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/simple(12969).c)
+	+ [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/simple(12954).c)
+	+ [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/simple(12950).c)
+	+ [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/simple(12947).c)
+	+ [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/simple(12944).c)
+	+ [최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/simple(12940).c)
+	+ [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/simple(12937).c)
+	+ [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/simple(12935).c)
+	+ [정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/simple(12933).c)
+	+ [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/simple(12931).c)
+	+ [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/simple(12901).c)
 * __String__
 	+ [Kakao 신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/The_recommendation_problem.c)
 	+ [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/Sorting_a_string_problem.c)
@@ -34,6 +46,9 @@
 	+ [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/Picking_a_middle_char_problem.c)
 	+ [시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/The_Caesar_cipher_problem.c)
 	+ [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/simple(12916).c)
+	+ [문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c++/level1/simple(12918).c)
+	+ [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/simple(12919).c)
+	+ [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/simple(12948).c)
 * __set__
 	+ [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/Pick_two_and_sum_problem.c)
 * __Sieve of Eratosthenes__
