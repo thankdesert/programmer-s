@@ -21,6 +21,9 @@
 	+ [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/The_absolutes_problem.c)
 	+ [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/Removing_all_duplicate_numbers_problem.c)
 	+ [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/The_Collatz_conjecture_problem.c)
+	+ [나누어 떨어지는 배열](https://programmers.co.kr/learn/courses/30/lessons/12910) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/simple(12910).c)
+	+ [자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/Reversing_a_natural_numbers_and_creating_an_array.c)
+	+ [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/simple(12912).c)
 * __String__
 	+ [Kakao 신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/The_recommendation_problem.c)
 	+ [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/Sorting_a_string_problem.c)
@@ -30,6 +33,7 @@
 	+ [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/Writing_a_strange_string_problem.c)
 	+ [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/Picking_a_middle_char_problem.c)
 	+ [시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/The_Caesar_cipher_problem.c)
+	+ [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/simple(12916).c)
 * __set__
 	+ [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/Pick_two_and_sum_problem.c)
 * __Sieve of Eratosthenes__
