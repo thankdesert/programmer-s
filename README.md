@@ -123,6 +123,8 @@
 	+ [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/The_immigration_problem.c)
 * __String__
 	+ [Kakao 추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/Kakao's_Korean_Thanksgiving_Day_problem.c)
+* __back tracking__
+	+ [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/Travel_route_problem.c)
 * __bfs__
 	+ [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/The_Network_problem.c)
 	+ [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/Converting_a_word_problem.c)
@@ -136,7 +138,7 @@
 	+ [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/The_best_album_problem.c)
 	+ [Kakao 리틀 프렌즈 사천성](https://programmers.co.kr/learn/courses/30/lessons/1836) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/Kakao's_Mah-Jongg_problem.c)
 * __dynamic programming__
-	+ [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/Expressing_only_with_N_problem.c)
+	+ [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/Expressing_only_with_N_problem.c
 
 
 ## Java
