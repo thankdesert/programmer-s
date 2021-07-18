@@ -126,6 +126,7 @@
 	+ [Kakao 추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/Kakao's_Korean_Thanksgiving_Day_problem.c)
 * __back tracking__
 	+ [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/Travel_route_problem.c)
+	+ [N_Queen](https://programmers.co.kr/learn/courses/30/lessons/12952) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/N_Queen_problem.c)
 * __bfs__
 	+ [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/The_Network_problem.c)
 	+ [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/Converting_a_word_problem.c)
