@@ -78,6 +78,7 @@
 	+ [쿼드압축 후 개수 세기](https://programmers.co.kr/learn/courses/30/lessons/68936) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level2/The_quad_compression_problem.c)
 	+ [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level2/Rotating_the_matrix_problem.c)
 	+ [행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level2/Matrix_multiplication.c)
+	+ [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level2/Simple_problem.c)
 * __String__
 	+ [Kakao 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level2/Kakao_news_clustering_problem.c)
 	+ [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level2/Writing_a_JadenCase_string_problem.c)
