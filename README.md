@@ -80,7 +80,7 @@
 	+ [행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level2/Matrix_multiplication.c)
 	+ [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level2/Simple_problem.c)
 	+ [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level2/Simple_problem2.c)
-	+ [숫자의 표현](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level2/Simple_problem3.c) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level2/Simple_problem3.c)
+	+ [숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924#) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level2/Simple_problem3.c)
 * __String__
 	+ [Kakao 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level2/Kakao_news_clustering_problem.c)
 	+ [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level2/Writing_a_JadenCase_string_problem.c)
