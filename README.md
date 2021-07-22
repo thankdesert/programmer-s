@@ -126,6 +126,7 @@
 	+ [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level2/A_phone_directory_problem.c)
 * __dynamic programming__
 	+ [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945?language=cpp#) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level2/Fibonacci_number_problem.c)
+	+ [땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level2/The_ttangttameokgi_problem.c)
 
 
 ### Level3
