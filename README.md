@@ -49,7 +49,6 @@
 	+ [문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c++/level1/simple(12918).c)
 	+ [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/simple(12919).c)
 	+ [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/simple(12948).c)
-	+ [Kakao N진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level2/Kakao's_n-numeric_method_problem.c)
 * __set__
 	+ [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/Pick_two_and_sum_problem.c)
 * __Sieve of Eratosthenes__
@@ -90,6 +89,7 @@
 	+ [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level2/A_pair_of_bracket_problem.c)
 	+ [Kakao 파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level2/Kakao's_sorting_problem.c)
 	+ [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level2/The_maximum_and_minumum_problem.c)
+	+ [Kakao N진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level2/Kakao's_n-numeric_method_problem.c)
 * __queue__
 	+ [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level2/A_truck_passing_through_a_bridge_problem.c)
 * __minimum heap__
