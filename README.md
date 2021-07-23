@@ -81,6 +81,7 @@
 	+ [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level2/Simple_problem.c)
 	+ [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level2/Simple_problem2.c)
 	+ [숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924#) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level2/Simple_problem3.c)
+	+ [방문 길이](https://programmers.co.kr/learn/courses/30/lessons/49994) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level2/Distance_of_first_visited_way_problem.c)
 * __String__
 	+ [Kakao 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level2/Kakao_news_clustering_problem.c)
 	+ [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level2/Writing_a_JadenCase_string_problem.c)
