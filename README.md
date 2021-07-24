@@ -158,6 +158,8 @@
 	+ [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/Way_to_school_problem.c)
 * __priority queue__
 	+ [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/Disk_scheduling_problem.c)
+* __floyd-warshall algorithm__
+	+ [순위](https://programmers.co.kr/learn/courses/30/lessons/49191) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/The_ranking_problem.c)
 
 ### Level4
 * __dynamic programming__
