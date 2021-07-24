@@ -142,6 +142,7 @@
 * __bfs__
 	+ [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/The_Network_problem.c)
 	+ [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/Converting_a_word_problem.c)
+	+ [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/The_number_of_furthest_nodes_problem.c)
 * __two pointer technique__
 	+ [Kakao 보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/Kakao's_shopping_gems_problem.c)
 * __kruskal's algorithm__
