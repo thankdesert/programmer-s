@@ -164,7 +164,8 @@
 	+ [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/Double_priority_queue_problem.c)
 * __floyd-warshall algorithm__
 	+ [순위](https://programmers.co.kr/learn/courses/30/lessons/49191) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/The_ranking_problem.c)
-
+* __recursive__
+	+ [하노이의 탑](https://programmers.co.kr/learn/courses/30/lessons/12946) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/The_tower_of_hanoi.c)
 ### Level4
 * __dynamic programming__
 	+ [도둑질](https://programmers.co.kr/learn/courses/30/lessons/42897) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/Expressing_only_with_N_problem.c)
