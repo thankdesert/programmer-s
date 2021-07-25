@@ -151,6 +151,7 @@
 	+ [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/Linking_all_islands_problem.c)
 * __greedy algorithm__
 	+ [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/The_unmanned_camera_problem.c)
+	+ [야근 지수](https://programmers.co.kr/learn/courses/30/lessons/12927) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/The_night_overtime_index_problem.c)
 * __unordered map__
 	+ [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/The_best_album_problem.c)
 	+ [Kakao 리틀 프렌즈 사천성](https://programmers.co.kr/learn/courses/30/lessons/1836) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/Kakao's_Mah-Jongg_problem.c)
