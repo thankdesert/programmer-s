@@ -139,6 +139,8 @@
 * __back tracking__
 	+ [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/Travel_route_problem.c)
 	+ [N_Queen](https://programmers.co.kr/learn/courses/30/lessons/12952) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/N_Queen_problem.c)
+* __dfs__
+	+ [모두 0으로 만들기](https://programmers.co.kr/learn/courses/30/lessons/76503) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/Making_all_node's_keys_to_zero_problem.c)
 * __bfs__
 	+ [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/The_Network_problem.c)
 	+ [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/Converting_a_word_problem.c)
