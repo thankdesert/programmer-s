@@ -132,7 +132,7 @@
 
 
 ### Level3
-* __nave__
+* __naive__
 	+ [최고의 집합](https://programmers.co.kr/learn/courses/30/lessons/12938) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c++/level3/The_best_set_problem.c)
 * __binary search__
 	+ [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/The_immigration_problem.c)
