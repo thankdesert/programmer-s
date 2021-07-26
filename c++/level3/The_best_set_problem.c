@@ -1,6 +1,6 @@
 /*
 ---------------------------------------------
-The_best_combination_problem
+The_best_set_problem
 from : https://programmers.co.kr/learn/courses/30/lessons/12938
 ---------------------------------------------
 */
