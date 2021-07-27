@@ -162,6 +162,7 @@
 	+ [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/Integer_triangle_problem.c)
 	+ [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/Way_to_school_problem.c)
 	+ [멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/The_long_jump_problem.c)
+	+ [거스름돈](https://programmers.co.kr/learn/courses/30/lessons/12907) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/Change-making_problem.c)
 * __priority queue__
 	+ [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/Disk_scheduling_problem.c)
 + __multiset__
