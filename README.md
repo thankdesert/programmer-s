@@ -134,6 +134,7 @@
 ### Level3
 * __naive__
 	+ [최고의 집합](https://programmers.co.kr/learn/courses/30/lessons/12938) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c++/level3/The_best_set_problem.c)
+	+ [기지국 설치](https://programmers.co.kr/learn/courses/30/lessons/12979) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/The_base_station_problem.c)
 * __binary search__
 	+ [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/The_immigration_problem.c)
 * __String__
