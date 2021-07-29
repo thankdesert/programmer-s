@@ -167,6 +167,7 @@
 	+ [멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/The_long_jump_problem.c)
 	+ [거스름돈](https://programmers.co.kr/learn/courses/30/lessons/12907) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/Change-making_problem.c)
 	+ [스티커 모으기](https://programmers.co.kr/learn/courses/30/lessons/12971?language=cpp#) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/Sticker_gathering_problem.c)
+	+ [가장 긴 팰린드롬](https://programmers.co.kr/learn/courses/30/lessons/12904) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/The_longest_palindrome_problem.c)
 * __priority queue__
 	+ [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/Disk_scheduling_problem.c)
 + __multiset__
