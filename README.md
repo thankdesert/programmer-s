@@ -180,6 +180,7 @@
 	+ [줄 서는 방법](https://programmers.co.kr/learn/courses/30/lessons/12936) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/Line_up_problem.c)
 * __Exhaustive Search__
 	+ [스타 수열](https://programmers.co.kr/learn/courses/30/lessons/70130?language=cpp) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/Subsequence_problem.c)
+	+ [Kakao 외벽 점검](https://programmers.co.kr/learn/courses/30/lessons/60062) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level3/Kakao's_outer_wall_examination_problem.c)
 ### Level4
 * __naive__
 	+ [숫자 블록](https://programmers.co.kr/learn/courses/30/lessons/12923) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level4/Block_numbering_problem.c)
