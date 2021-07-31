@@ -204,12 +204,13 @@
 ## MySQL
 ### Level1
 * [최댓값 구하기](https://programmers.co.kr/learn/courses/30/lessons/59415) > [Query](https://github.com/thankdesert/programmer-s/blob/main/MySQL/level1/MAX_VALUE.mysql)
+### Level2
+* [고양이와 개는 몇 마리 있을까](https://programmers.co.kr/learn/courses/30/lessons/59040) > [Query](https://github.com/thankdesert/programmer-s/tree/main/MySQL/level1)
+* [입양 시각 구하기(1)](https://programmers.co.kr/learn/courses/30/lessons/59412) > [Query](https://github.com/thankdesert/programmer-s/blob/main/MySQL/level1/HOUR(1).mysql)
 * [최솟값 구하기](https://programmers.co.kr/learn/courses/30/lessons/59038) > [Query](https://github.com/thankdesert/programmer-s/blob/main/MySQL/level1/MIN_VALUE.mysql)
 * [동물 수 구하기](https://programmers.co.kr/learn/courses/30/lessons/59406) > [Query](https://github.com/thankdesert/programmer-s/blob/main/MySQL/level1/COUNTING_ANIMALS.mysql)
 * [중복 제거하기](https://programmers.co.kr/learn/courses/30/lessons/59408) > [Query](https://github.com/thankdesert/programmer-s/blob/main/MySQL/level1/DATA_DEDUPLICATION.mysql)
-* [고양이와 개는 몇 마리 있을까](https://programmers.co.kr/learn/courses/30/lessons/59040) > [Query](https://github.com/thankdesert/programmer-s/tree/main/MySQL/level1)
 * [동명 동물 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/59041) > [Query](https://github.com/thankdesert/programmer-s/blob/main/MySQL/level1/COUNTING_ALL_ANIMAL_HAVING_A_SAME_NAME.mysql)
-* [입양 시각 구하기(1)](https://programmers.co.kr/learn/courses/30/lessons/59412) > [Query](https://github.com/thankdesert/programmer-s/blob/main/MySQL/level1/HOUR(1).mysql)
 ### Level4
 * [입양 시각 구하기(2)](https://programmers.co.kr/learn/courses/30/lessons/59413) > [Query](https://github.com/thankdesert/programmer-s/blob/main/MySQL/level4/OUT(2).mysql)
 
