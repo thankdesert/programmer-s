@@ -201,7 +201,7 @@
 	+ [예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985?language=java) > [Source](https://github.com/thankdesert/programmer-s/blob/main/Java/level2/A_tournament_table_problem.java)
 
 
-##MySQL
+## MySQL
 ### Level1
 * [최댓값 구하기](https://programmers.co.kr/learn/courses/30/lessons/59415) > [Query](https://github.com/thankdesert/programmer-s/blob/main/MySQL/level1/MAX_VALUE.mysql)
 
