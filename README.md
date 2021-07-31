@@ -1,6 +1,6 @@
 # SH's Sources
 >[프로그래머스](https://programmers.co.kr/)에서 제공하는 코딩 테스트 문제들을 해결해나가는 공간입니다.  
->주 사용 언어 : __C/C++__, Java  
+>주 사용 언어 : __C/C++__, Java, MySQL
 
 ## C / C++
 ### Level1
@@ -200,6 +200,10 @@
 * __complete binary tree__
 	+ [예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985?language=java) > [Source](https://github.com/thankdesert/programmer-s/blob/main/Java/level2/A_tournament_table_problem.java)
 
+
+##MySQL
+### Level1
+* [최댓값 구하기](https://programmers.co.kr/learn/courses/30/lessons/59415) > [Query](https://github.com/thankdesert/programmer-s/blob/main/MySQL/level1/MAX_VALUE.mysql)
 
 
 
