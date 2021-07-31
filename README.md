@@ -209,5 +209,6 @@
 * [중복 제거하기](https://programmers.co.kr/learn/courses/30/lessons/59408) > [Query](https://github.com/thankdesert/programmer-s/blob/main/MySQL/level1/DATA_DEDUPLICATION.mysql)
 * [고양이와 개는 몇 마리 있을까](https://programmers.co.kr/learn/courses/30/lessons/59040) > [Query](https://github.com/thankdesert/programmer-s/tree/main/MySQL/level1)
 * [동명 동물 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/59041) > [Query](https://github.com/thankdesert/programmer-s/blob/main/MySQL/level1/COUNTING_ALL_ANIMAL_HAVING_A_SAME_NAME.mysql)
+* [입양 시각 구하기](https://programmers.co.kr/learn/courses/30/lessons/59412) > [Query](https://github.com/thankdesert/programmer-s/blob/main/MySQL/level1/HOUR(1).mysql)
 
 ![4411](https://user-images.githubusercontent.com/46125548/125159966-81ec2880-e1b5-11eb-8463-5e3bcfb711e8.jpg)
