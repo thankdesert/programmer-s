@@ -207,5 +207,6 @@
 * [최솟값 구하기](https://programmers.co.kr/learn/courses/30/lessons/59038) > [Query](https://github.com/thankdesert/programmer-s/blob/main/MySQL/level1/MIN_VALUE.mysql)
 * [동물 수 구하기](https://programmers.co.kr/learn/courses/30/lessons/59406) > [Query](https://github.com/thankdesert/programmer-s/blob/main/MySQL/level1/COUNTING_ANIMALS.mysql)
 * [중복 제거하기](https://programmers.co.kr/learn/courses/30/lessons/59408) > [Query](https://github.com/thankdesert/programmer-s/blob/main/MySQL/level1/DATA_DEDUPLICATION.mysql)
+* [고양이와 개는 몇 마리 있을까](https://programmers.co.kr/learn/courses/30/lessons/59040) > [Query](https://github.com/thankdesert/programmer-s/tree/main/MySQL/level1)
 
 ![4411](https://user-images.githubusercontent.com/46125548/125159966-81ec2880-e1b5-11eb-8463-5e3bcfb711e8.jpg)
