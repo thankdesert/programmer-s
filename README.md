@@ -216,6 +216,7 @@
 * [NULL 처리하기](https://github.com/thankdesert/programmer-s/blob/main/MySQL/level2/MANAGING_NULL_ELEMENTS.mysql) > [Query](https://github.com/thankdesert/programmer-s/blob/main/MySQL/level2/MANAGING_NULL_ELEMENTS.mysql)
 ### Level3
 * [없어진 기록 찾기](https://programmers.co.kr/learn/courses/30/lessons/59042) > [Query](https://github.com/thankdesert/programmer-s/blob/main/MySQL/level3/REBORN_DATA.mysql)
+* [있었는데요 없었습니다](https://programmers.co.kr/learn/courses/30/lessons/59043) > [Query](https://github.com/thankdesert/programmer-s/blob/main/MySQL/level3/CHECKING_DATE.mysql)
 ### Level4
 * [입양 시각 구하기(2)](https://programmers.co.kr/learn/courses/30/lessons/59413) > [Query](https://github.com/thankdesert/programmer-s/blob/main/MySQL/level4/OUT(2).mysql)
 
