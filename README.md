@@ -220,5 +220,6 @@
 * [오랜 기간 보호한 동물(1)](https://programmers.co.kr/learn/courses/30/lessons/59044) > [Query](https://github.com/thankdesert/programmer-s/blob/main/MySQL/level3/A_LONG_HELD_ANIMAL.mysql)
 ### Level4
 * [입양 시각 구하기(2)](https://programmers.co.kr/learn/courses/30/lessons/59413) > [Query](https://github.com/thankdesert/programmer-s/blob/main/MySQL/level4/OUT(2).mysql)
+* [보호소에서 중성화한 동물](https://programmers.co.kr/learn/courses/30/lessons/59045) > [Query](https://github.com/thankdesert/programmer-s/blob/main/MySQL/level4/SPAYED_ANIMAL.mysql)
 
 ![4411](https://user-images.githubusercontent.com/46125548/125159966-81ec2880-e1b5-11eb-8463-5e3bcfb711e8.jpg)
