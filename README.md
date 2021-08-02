@@ -219,6 +219,7 @@
 * [동명 동물 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/59041) > [Query](https://github.com/thankdesert/programmer-s/blob/main/MySQL/level1/COUNTING_ALL_ANIMAL_HAVING_A_SAME_NAME.mysql)
 * [NULL 처리하기](https://github.com/thankdesert/programmer-s/blob/main/MySQL/level2/MANAGING_NULL_ELEMENTS.mysql) > [Query](https://github.com/thankdesert/programmer-s/blob/main/MySQL/level2/MANAGING_NULL_ELEMENTS.mysql)
 * [루시와 엘라 찾기](https://programmers.co.kr/learn/courses/30/lessons/59046) > [Query](https://github.com/thankdesert/programmer-s/blob/main/MySQL/level2/FINDING_LUCY_AND_ELLA.mysql)
+* [이름에 el이 들어가는 동물 찾기](https://programmers.co.kr/learn/courses/30/lessons/59047) > [Query](https://github.com/thankdesert/programmer-s/blob/main/MySQL/level2/FINDING_ALL_DOGS_NAMED_*EL*.mysql)
 ### Level3
 * [없어진 기록 찾기](https://programmers.co.kr/learn/courses/30/lessons/59042) > [Query](https://github.com/thankdesert/programmer-s/blob/main/MySQL/level3/REBORN_DATA.mysql)
 * [있었는데요 없었습니다](https://programmers.co.kr/learn/courses/30/lessons/59043) > [Query](https://github.com/thankdesert/programmer-s/blob/main/MySQL/level3/CHECKING_DATE.mysql)
