@@ -5,7 +5,7 @@
 ![4411](https://user-images.githubusercontent.com/46125548/125159966-81ec2880-e1b5-11eb-8463-5e3bcfb711e8.jpg)
 
 ## C / C++
-###Weekly Challenge
+### Weekly Challenge
 * [(1주차)부족한 금액 계산하기](https://github.com/thankdesert/programmer-s/edit/main/README.md) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/weekly_challenge/1w.c)
 ### Level1
 * __naive__
