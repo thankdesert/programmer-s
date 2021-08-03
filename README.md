@@ -215,6 +215,7 @@
 * [아픈 동물 찾기](https://programmers.co.kr/learn/courses/30/lessons/59036) > [Query](https://github.com/thankdesert/programmer-s/blob/main/MySQL/level1/FINDING_SICK_ANIMAL.mysql)
 * [어린 동물 찾기](https://programmers.co.kr/learn/courses/30/lessons/59037#fn1) > [Query](https://github.com/thankdesert/programmer-s/blob/main/MySQL/level1/FINDING_YOUNG_ANIMAL.mysql)
 * [동물의 아이디와 이름](https://programmers.co.kr/learn/courses/30/lessons/59403) > [Query](https://github.com/thankdesert/programmer-s/blob/main/MySQL/level1/LOOKUP_ID_AND_NAME.mysql)
+* [여러 기준으로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/59404) > [Query](https://github.com/thankdesert/programmer-s/blob/main/MySQL/level1/SORT(2).mysql)
 ### Level2
 * [고양이와 개는 몇 마리 있을까](https://programmers.co.kr/learn/courses/30/lessons/59040) > [Query](https://github.com/thankdesert/programmer-s/tree/main/MySQL/level1)
 * [입양 시각 구하기(1)](https://programmers.co.kr/learn/courses/30/lessons/59412) > [Query](https://github.com/thankdesert/programmer-s/blob/main/MySQL/level1/HOUR(1).mysql)
