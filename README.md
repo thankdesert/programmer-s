@@ -233,6 +233,7 @@
 * [있었는데요 없었습니다](https://programmers.co.kr/learn/courses/30/lessons/59043) > [Query](https://github.com/thankdesert/programmer-s/blob/main/MySQL/level3/CHECKING_DATE.mysql)
 * [오랜 기간 보호한 동물(1)](https://programmers.co.kr/learn/courses/30/lessons/59044) > [Query](https://github.com/thankdesert/programmer-s/blob/main/MySQL/level3/A_LONG_HELD_ANIMAL.mysql)
 * [오랜 기간 보호한 동물(2)](https://programmers.co.kr/learn/courses/30/lessons/59411) > [Query](https://github.com/thankdesert/programmer-s/blob/main/MySQL/level3/A_LONG_HELD_ANIMAL(2).mysql)
+* [헤비 유저가 소유한 장소](https://programmers.co.kr/learn/courses/30/lessons/77487) > [Query](https://github.com/thankdesert/programmer-s/blob/main/MySQL/level3/THE_PLACE_OF_HEAVY_USER.mysql)
 ### Level4
 * [입양 시각 구하기(2)](https://programmers.co.kr/learn/courses/30/lessons/59413) > [Query](https://github.com/thankdesert/programmer-s/blob/main/MySQL/level4/OUT(2).mysql)
 * [보호소에서 중성화한 동물](https://programmers.co.kr/learn/courses/30/lessons/59045) > [Query](https://github.com/thankdesert/programmer-s/blob/main/MySQL/level4/SPAYED_ANIMAL.mysql)
