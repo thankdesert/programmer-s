@@ -7,6 +7,7 @@
 ## C / C++
 ### Weekly Challenge
 * [(1주차)부족한 금액 계산하기](https://programmers.co.kr/learn/challenges) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/weekly_challenge/1w.c)
+* [(2주차)상호 평가](https://programmers.co.kr/learn/courses/30/lessons/83201) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/weekly_challenge/2w.c)
 ### Level1
 * __naive__
 	+ [예산](https://programmers.co.kr/learn/courses/30/lessons/12982) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/A_budget_problem.c)
