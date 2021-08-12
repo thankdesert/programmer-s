@@ -224,7 +224,7 @@
 * [최솟값 구하기](https://programmers.co.kr/learn/courses/30/lessons/59038) > [Query](https://github.com/thankdesert/programmer-s/blob/main/MySQL/level1/MIN_VALUE.mysql)
 * [동물 수 구하기](https://programmers.co.kr/learn/courses/30/lessons/59406) > [Query](https://github.com/thankdesert/programmer-s/blob/main/MySQL/level1/COUNTING_ANIMALS.mysql)
 * [중복 제거하기](https://programmers.co.kr/learn/courses/30/lessons/59408) > [Query](https://github.com/thankdesert/programmer-s/blob/main/MySQL/level1/DATA_DEDUPLICATION.mysql)
-* [동명 동물 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/59041) > [Query](https://github.com/thankdesert/programmer-s/blob/main/MySQL/level1/COUNTING_ALL_ANIMAL_HAVING_A_SAME_NAME.mysql)
+* [동명 동물 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/59041) > [Query](https://github.com/thankdesert/programmer-s/blob/main/MySQL/level2/COUNTING_ALL_ANIMALS_HAVING_A_SAME_NAME.mysql)
 * [NULL 처리하기](https://github.com/thankdesert/programmer-s/blob/main/MySQL/level2/MANAGING_NULL_ELEMENTS.mysql) > [Query](https://github.com/thankdesert/programmer-s/blob/main/MySQL/level2/MANAGING_NULL_ELEMENTS.mysql)
 * [루시와 엘라 찾기](https://programmers.co.kr/learn/courses/30/lessons/59046) > [Query](https://github.com/thankdesert/programmer-s/blob/main/MySQL/level2/FINDING_LUCY_AND_ELLA.mysql)
 * [이름에 el이 들어가는 동물 찾기](https://programmers.co.kr/learn/courses/30/lessons/59047) > [Query](https://github.com/thankdesert/programmer-s/blob/main/MySQL/level2/FINDING_ALL_DOGS_NAMED_*EL*.mysql)
