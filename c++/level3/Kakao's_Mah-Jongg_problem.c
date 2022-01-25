@@ -2,7 +2,7 @@
 ---------------------------------------------
 Kakao's_Mah-Jongg_problem
 from : https://programmers.co.kr/learn/courses/30/lessons/1836
-solved by using a_ordered_map
+solved by using unordered_map
 ---------------------------------------------
 */
 
