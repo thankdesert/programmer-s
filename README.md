@@ -40,6 +40,7 @@
 	+ [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/simple(12931).c)
 	+ [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/simple(12901).c)
 	+ [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/sum_of_the_absence_number.cpp)
+	+ [나머지가 1이 되는 수 찾기](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/Searching_number_that_makes_n_as_1_by_modulo_calculating.cpp) > [Source](https://programmers.co.kr/learn/courses/30/lessons/87389)
 * __String__
 	+ [Kakao 신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/The_recommendation_problem.c)
 	+ [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) > [Source](https://github.com/thankdesert/programmer-s/blob/main/c%2B%2B/level1/Sorting_a_string_problem.c)
